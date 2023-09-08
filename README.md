@@ -1,6 +1,10 @@
 # LOMO_XQDA
 Person Re-identification by Local Maximal Occurrence Representation and Metric Learning
 
+# News
+
+[Python implementation of LOMO feature extractor](https://github.com/dongb5/LOMO-feature-extractor)
+
 # Introduction
 
 This MATLAB package provides the LOMO feature extraction and the XQDA metric learning algorithms proposed in our CVPR 2015 paper [1].
